@@ -27,4 +27,4 @@ npm run lint
 ```
 
 # Other todo apps
-[todo-angularjs](https://vantezzen.github.io/todo-angularjs)
+[todo-angularjs](https://github.com/vantezzen/todo-angularjs)
